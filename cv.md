@@ -11,7 +11,6 @@ I am a student at the Belarusian-Russian University. I study at the Faculty of E
 
 ## Project
 I have a large number of projects with well-known technologies in my portfolio, which can be viewed on my GitHub.
-
 ## Example code
 ```
 class Programm
